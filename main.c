@@ -2,6 +2,6 @@
 
 
 void main(){
-    printf("we are hello learning github!");
+    printf("we are he learning github!");
 
 }
