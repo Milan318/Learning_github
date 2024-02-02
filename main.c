@@ -1,7 +1,11 @@
-# include <stdio.>
-
-
-void main(){
-    printf("we are he learning github!");
-
+#include <stdio.h>
+int main(){
+  int num1,num2,result;
+  printf("enter the first number:");
+  scanf("%d",&num1);
+  printf("enter the second number:");
+  scanf("%d",&num2);
+  result=num1/num2;
+  printf("divide result: %d\n",result);
+  return 0;
 }
